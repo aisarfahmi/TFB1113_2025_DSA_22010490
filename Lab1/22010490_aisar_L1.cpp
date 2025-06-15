@@ -1,6 +1,7 @@
 /*
 ID = 22010490
 Name = Aisar Fahmi bin Zamri
+Lab = 1
 */
 
 #include <iostream>
