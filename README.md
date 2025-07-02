@@ -1,1 +1,3 @@
-# TFB1113_2025_DSA_22010490
+# [TFB1113] Algorithm & Data Structure
+Lab tasks for Algorithm and Data Structure May25
+# Lab Tasks
